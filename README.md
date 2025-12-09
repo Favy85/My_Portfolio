@@ -64,7 +64,7 @@ Includes ERD design, SQL schema creation, queries for insights, and a future Pow
 
 ---
 
-4️⃣ Sunbeat Music Festival Event Management System (ERD + SQL)
+### 4️⃣ Sunbeat Music Festival Event Management System (ERD + SQL)
 
 A relational database system for managing festival artists, stages, tickets, camping, and performance schedules.
 Includes full ERD design, SQL schema creation, sample data, and organiser/attendee query functions.
