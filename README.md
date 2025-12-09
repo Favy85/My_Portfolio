@@ -44,7 +44,8 @@ I have completed several end-to-end projects and currently working on new builds
 ### 1️⃣ Heart Disease Multiclassification (MLP, CNN, TabNet, FTTransformer)  
 A deep learning project predicting 5 stages of coronary heart disease.  
 Includes preprocessing pipeline, feature engineering, SMOTETomek balancing, model comparison, and deployment-ready models.  
-🔗 **View Project** [https://github.com/Favy85/heart-disease-multiclassification]
+🔗 **[View Project](https://github.com/Favy85/heart-disease-multiclassification)**
+
 
 ---
 
