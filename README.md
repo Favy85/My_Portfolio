@@ -52,7 +52,7 @@ Includes preprocessing pipeline, feature engineering, SMOTETomek balancing, mode
 ### 2️⃣ UK Road Accident Dashboard (Power BI)  
 A Power BI project analyzing UK Road Safety Data (STATS19) with insights on locations, severity, contributing factors, and accident trends.  
 Includes DAX measures and data transformations.  
-🔗 **View Project**
+🔗 **View Project](**
 
 ---
 
